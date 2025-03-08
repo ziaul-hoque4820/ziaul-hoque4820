@@ -1,6 +1,6 @@
 
 # Hi there 👋, 
-###My name is Ziaul Hoque
+### My name is Ziaul Hoque
 #### I am Web Developer
 
 As a passionate Front-End Web Designer and Developer, I am constantly improving my skills every day. I love teaching newcomers the skills I’ve learned and helping them grow in their web development journey. Currently, I am honing my expertise in HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. In the future, I aspire to build a leading web development company, where creativity and innovation come together to shape the future of the web.
