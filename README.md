@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind
 - 👯 I’m looking to collaborate on GitHub – collaborating on open-source projects to learn and grow while contributing to the developer community. 
 - 🤔 I’m looking for help with Improving my understanding of advanced JavaScript concepts, building scalable web applications, and mastering backend integration. 
 - 💬 Ask me about Web development, JavaScript, React, CSS, and Bootstrap. I’m happy to share my knowledge and discuss new web technologies! 
-- 📫 How to reach me: You can reach me through my GitHub or email at ziaulhoque4820@gmail.com . 
+- 📫 How to reach me: You can reach me through my GitHub or email at ziaulhoque4820@gmail.com or  ziaul.dev@gmail.com . 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I once tried to build a website using only HTML and CSS for 24 hours straight—let’s just say it was a wild experience, but I learned a lot! 
 
