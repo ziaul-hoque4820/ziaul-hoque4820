@@ -1,4 +1,4 @@
-![I am Web Developer](https://www.linkedin.com/in/ziaul-hoque-a0a546324/overlay/background-image/)
+
 # Hi there 👋, 
 ###My name is Ziaul Hoque
 #### I am Web Developer
