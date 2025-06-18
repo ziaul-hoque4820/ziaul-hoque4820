@@ -104,7 +104,7 @@ As a **Front-End Developer**, I strive to craft pixel-perfect interfaces that ar
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/ziaul-hoque4820)
 &nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/ziaul-hoque-a0a546324/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/ziaul-hoque-patwary-a0a546324/)
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">](https://web.facebook.com/ziaulhoque.patwary.9/)
 
