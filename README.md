@@ -72,11 +72,6 @@ I'm a Junior MERN Stack Developer focused on building responsive and functional 
         <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /><br>Figma
       </td>
     </tr>
-    <tr>
-      <td align="center" width="90" colspan="2">
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" /><br>JWT Token
-      </td>
-    </tr>
   </table>
 </div>
  
