@@ -2,9 +2,12 @@
   <img src="https://i.ibb.co.com/TqKTkD0z/github-banner-ziaul.png" alt="Ziaul Hoque Banner" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaul-hoque&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 # Hi there, I'm Ziaul Hoque 👋
 ### MERN Stack Developer | React.js | Aspiring FinTech Developer with Audit Background
-
 <p align="left">
   <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" style="vertical-align:top; margin-top:-20px;" />
   
@@ -13,18 +16,12 @@
   🌱 **Currently deepening my skills in Next.js, Node.js, and Backend Scalability.**  
   🤝 **Open to collaborating on real-world projects and open-source contributions.**
 </p>
-
 ---
-
 ### 🚀 About Me
 I am a **Junior MERN Stack Developer** dedicated to building responsive, high-performance, and functional web applications. With a unique background in **Audit**, I bring a meticulous eye for detail and a rigorous problem-solving mindset to software development. 
-
 I enjoy bridging the gap between clean, user-friendly UI (React.js) and robust, secure server-side logic (Node.js/Express). My goal is to leverage my financial insight and technical expertise to build innovative **FinTech solutions**.
-
 ---
-
 ### 💻 My Tech Stack
-
 <div align="center">
   <table>
     <tr>
@@ -64,7 +61,7 @@ I enjoy bridging the gap between clean, user-friendly UI (React.js) and robust, 
         <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /><br>MongoDB
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /><br>Firebase
+        <img src="https://skillicons.dev/icons?i=better-auth" width="45" alt="Better Auth" onerror="this.src='https://avatars.githubusercontent.com/u/150082516?s=45'" /><br>Better Auth
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /><br>Postman
@@ -81,5 +78,4 @@ I enjoy bridging the gap between clean, user-friendly UI (React.js) and robust, 
     </tr>
   </table>
 </div>
-
 ---
