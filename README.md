@@ -4,7 +4,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ziaulhoquepatwary&theme=tokyonight&hide_border=true" alt="Ziaul Hoque GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ziaulhoquepatwary&theme=tokyonight&hide_border=true" alt="Ziaul Hoque GitHub Streak" width="100%" />
 </div>
 
 # Hi there, I'm Ziaul Hoque 👋
@@ -68,7 +68,7 @@ I enjoy bridging the gap between clean, user-friendly UI (React.js) and robust, 
         <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /><br>MongoDB
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=auth" width="45" alt="Better-Auth" /><br>Better-Auth
+        <img src="[https://skillicons.dev/icons?i=auth](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYW2HW6hoOhy6aotOkWDNv8D6dxXFDzoJvQ&s)" width="45" alt="Better-Auth" /><br>Better-Auth
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /><br>Postman
