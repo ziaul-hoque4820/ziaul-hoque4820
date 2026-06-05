@@ -67,8 +67,8 @@ I enjoy bridging the gap between clean, user-friendly UI (React.js) and robust, 
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /><br>MongoDB
       </td>
-      <td align="center" width="90">
-        <img src="[https://skillicons.dev/icons?i=auth](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYW2HW6hoOhy6aotOkWDNv8D6dxXFDzoJvQ&s)" width="45" alt="Better-Auth" /><br>Better-Auth
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /><br>Firebase
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /><br>Postman
